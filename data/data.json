@@ -1,0 +1,178 @@
+[
+  {
+    "Nom": "Pommes",
+    "Exportations-2000-02": 1352,
+    "Importations-2000-02": 8591,
+    "Exportations-2015": 1168,
+    "Importations-2015": 6361,
+    "Exportations-2016": 1219,
+    "Importations-2016": 11059,
+    "Exportations-2017": 445,
+    "Importations-2017": 11919
+  },
+  {
+    "Nom": "Poires",
+    "Exportations-2000-02": 125,
+    "Importations-2000-02": 8786,
+    "Exportations-2015": 58,
+    "Importations-2015": 7260,
+    "Exportations-2016": 45,
+    "Importations-2016": 10382,
+    "Exportations-2017": 18,
+    "Importations-2017": 9888
+  },
+  {
+    "Nom": "Abricots",
+    "Exportations-2000-02": 31,
+    "Importations-2000-02": 9154,
+    "Exportations-2015": 62,
+    "Importations-2015": 9421,
+    "Exportations-2016": 7,
+    "Importations-2016": 8693,
+    "Exportations-2017": 8,
+    "Importations-2017": 11934
+  },
+  {
+    "Nom": "Cerises",
+    "Exportations-2000-02": 7,
+    "Importations-2000-02": 3373,
+    "Exportations-2015": 13,
+    "Importations-2015": 3064,
+    "Exportations-2016": 1,
+    "Importations-2016": 3289,
+    "Exportations-2017": 14,
+    "Importations-2017": 3755
+  },
+  {
+    "Nom": "Prunes et pruneaux",
+    "Exportations-2000-02": 15,
+    "Importations-2000-02": 5249,
+    "Exportations-2015": 34,
+    "Importations-2015": 6422,
+    "Exportations-2016": 39,
+    "Importations-2016": 8036,
+    "Exportations-2017": 51,
+    "Importations-2017": 7859
+  },
+  {
+    "Nom": "Fraises",
+    "Exportations-2000-02": 23,
+    "Importations-2000-02": 11424,
+    "Exportations-2015": 38,
+    "Importations-2015": 14421,
+    "Exportations-2016": 4,
+    "Importations-2016": 14904,
+    "Exportations-2017": 28,
+    "Importations-2017": 14455
+  },
+  {
+    "Nom": "Raisins",
+    "Exportations-2000-02": 60,
+    "Importations-2000-02": 38447,
+    "Exportations-2015": 39,
+    "Importations-2015": 34018,
+    "Exportations-2016": 112,
+    "Importations-2016": 33777,
+    "Exportations-2017": 73,
+    "Importations-2017": 34000
+  },
+  {
+    "Nom": "Agrumes",
+    "Exportations-2000-02": 107,
+    "Importations-2000-02": 124102,
+    "Exportations-2015": 205,
+    "Importations-2015": 143983,
+    "Exportations-2016": 163,
+    "Importations-2016": 145984,
+    "Exportations-2017": 158,
+    "Importations-2017": 143965
+  },
+  {
+    "Nom": "Bananes",
+    "Exportations-2000-02": 3,
+    "Importations-2000-02": 73363,
+    "Exportations-2015": 0,
+    "Importations-2015": 88619,
+    "Exportations-2016": 12,
+    "Importations-2016": 91310,
+    "Exportations-2017": 37,
+    "Importations-2017": 93842
+  },
+  {
+    "Nom": "Carottes",
+    "Exportations-2000-02": 26,
+    "Importations-2000-02": 6739,
+    "Exportations-2015": 1,
+    "Importations-2015": 10002,
+    "Exportations-2016": 0,
+    "Importations-2016": 4177,
+    "Exportations-2017": 19,
+    "Importations-2017": 3589
+  },
+  {
+    "Nom": "Oignons",
+    "Exportations-2000-02": 51,
+    "Importations-2000-02": 6432,
+    "Exportations-2015": 151,
+    "Importations-2015": 2777,
+    "Exportations-2016": 31,
+    "Importations-2016": 6976,
+    "Exportations-2017": 7,
+    "Importations-2017": 3145
+  },
+  {
+    "Nom": "Celeris-raves",
+    "Exportations-2000-02": 0,
+    "Importations-2000-02": 287,
+    "Exportations-2015": 0,
+    "Importations-2015": 255,
+    "Exportations-2016": 0,
+    "Importations-2016": 407,
+    "Exportations-2017": 0,
+    "Importations-2017": 7
+  },
+  {
+    "Nom": "Tomates",
+    "Exportations-2000-02": 25,
+    "Importations-2000-02": 42449,
+    "Exportations-2015": 67,
+    "Importations-2015": 39064,
+    "Exportations-2016": 96,
+    "Importations-2016": 38411,
+    "Exportations-2017": 25,
+    "Importations-2017": 37245
+  },
+  {
+    "Nom": "Laitues",
+    "Exportations-2000-02": 3,
+    "Importations-2000-02": 2537,
+    "Exportations-2015": 0,
+    "Importations-2015": 3305,
+    "Exportations-2016": 1,
+    "Importations-2016": 3745,
+    "Exportations-2017": 37,
+    "Importations-2017": 3276
+  },
+  {
+    "Nom": "Choux-fleurs",
+    "Exportations-2000-02": 1,
+    "Importations-2000-02": 9067,
+    "Exportations-2015": 18,
+    "Importations-2015": 8762,
+    "Exportations-2016": 56,
+    "Importations-2016": 8686,
+    "Exportations-2017": 1,
+    "Importations-2017": 8273
+  },
+  {
+    "Nom": "Concombres",
+    "Exportations-2000-02": 21,
+    "Importations-2000-02": 17046,
+    "Exportations-2015": 14,
+    "Importations-2015": 16608,
+    "Exportations-2016": 7,
+    "Importations-2016": 17116,
+    "Exportations-2017": 11,
+    "Importations-2017": 20056
+  }
+]

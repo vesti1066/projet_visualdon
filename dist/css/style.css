@@ -1,0 +1,88 @@
+img {
+	width: 1.2rem;
+	padding-bottom: 0.2rem;
+}
+
+button {
+	
+	opacity: 0.5 !important;
+	border: none !important;
+}
+
+button:hover {
+	
+	opacity: 1 !important;
+}
+
+
+#apple {
+	background-color: #cccc00 !important; 
+}
+
+#pear {
+	background-color: #996600 !important; 
+}
+
+
+
+#apricot {
+	background-color: #FEA145 !important; 
+}
+
+#cherry {
+	background-color: #A20062 !important;
+}
+
+#plum {
+	background-color: #6600cc !important;
+}
+
+#strawberry {
+	background-color: #ff0000 !important;
+}
+
+#grape {
+	background-color: #800000 !important;
+}
+
+#lemon {
+	background-color: #ffcc00 !important;
+}
+
+#banana {
+	background-color: #cc9900 !important;
+}
+
+#carrot {
+	background-color: #FE5E01 !important;
+}
+
+#onion {
+	background-color: #A44C63 !important;
+}
+
+#celery {
+	background-color: #879843 !important;
+}
+
+#tomato {
+	background-color: tomato !important;
+}
+
+#cauliflower {
+	background-color: #64BF8E !important;
+}
+
+#cucumber {
+	background-color: #2B5B00 !important;
+}
+
+.selected {
+	opacity: 1 !important;
+	zoom: 150%;
+}
+
+#swiss {
+	
+	width: 2.5rem;
+}
