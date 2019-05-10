@@ -77,6 +77,10 @@ button:hover {
 	background-color: #2B5B00 !important;
 }
 
+.sort {
+	background-color: black !important;
+}
+
 .selected {
 	opacity: 1 !important;
 	zoom: 150%;
