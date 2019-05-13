@@ -1,5 +1,5 @@
 
-const DATA = require('../data/data.json');
+const DATA = require('data.json');
 
 const format = d => ({
   nom: d.Nom,

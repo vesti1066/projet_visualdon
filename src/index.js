@@ -10,7 +10,7 @@ let x = [];
 let myChart = new Chart(ctx, {
     type: 'line',
     data: {
-      labels:["2002", "2015", "2016", "2017"],
+      labels:["2000/02*", "2015", "2016", "2017"],
     }
 });
 
@@ -119,7 +119,7 @@ $("button").on('change', event => {
 
     type: 'line',
     data: {
-      labels:["2002", "2015", "2016", "2017"],
+      labels:["2000/02*", "2015", "2016", "2017"],
       datasets: x
     },
     options: {

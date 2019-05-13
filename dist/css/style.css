@@ -90,3 +90,9 @@ button:hover {
 	
 	width: 2.5rem;
 }
+
+.legend {
+
+	color: grey;
+	font-size: 0.75rem;
+}
